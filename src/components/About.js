@@ -9,7 +9,7 @@ function About() {
         </h2>
 
         <p className="text-gray-600 text-lg leading-relaxed">
-          eTech Services est une entreprise spécialisée dans le développement
+          I-Tech Services est une entreprise spécialisée dans le développement
           de solutions numériques modernes. Nous créons des sites web,
           des applications et des systèmes d’automatisation.
         </p>
